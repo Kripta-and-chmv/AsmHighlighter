@@ -1,0 +1,24 @@
+﻿Build started 3/8/2015 4:07:07 PM.
+     1>Project "C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\fasmdll_managed\fasmdll_managed\fasmdll_managed.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _MBCS /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"bin\Debug\\" /Fd"bin\Debug\vc120.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib AssemblyInfo.cpp fasmdll_managed.cpp
+         AssemblyInfo.cpp
+     1>AssemblyInfo.cpp(38): warning C4947: 'RequestMinimum' : marked as obsolete
+                 Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+         fasmdll_managed.cpp
+     1>c:\users\mnxoid\desktop\primesstep2\asmhighlighter\fasmdll_managed\fasmdll_managed\AssemblyInfo.cpp(38): warning C4947: 'RequestMinimum' : marked as obsolete
+                 Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+     1>fasmdll_managed.cpp(169): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+         Generating Code...
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _MBCS /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"bin\Debug\\" /Fd"bin\Debug\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Mnxoid\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"bin\Debug\fasmdll_managed.dll" /INCREMENTAL /NOLOGO FASM.OBJ /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"bin\Debug\fasmdll_managed.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH:NO /DLL bin\Debug\AssemblyInfo.obj
+         bin\Debug\fasmdll_managed.obj
+         "bin\Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         fasmdll_managed.vcxproj -> C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\fasmdll_managed\fasmdll_managed\bin\Debug\fasmdll_managed.dll
+     1>Done Building Project "C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\fasmdll_managed\fasmdll_managed\fasmdll_managed.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.33

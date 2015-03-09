@@ -1,0 +1,17 @@
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\bin\Debug\AsmHighlighter.pkgdef
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\bin\Debug\AsmHighlighterVS2010.png
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\bin\Debug\PackageIcon.ico
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\bin\Debug\License.rtf
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\bin\Debug\Screenshot.png
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\bin\Debug\AsmHighlighter.dll
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\bin\Debug\AsmHighlighter.pdb
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\bin\Debug\AsmHighlighter.vsix
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\bin\Debug\extension.vsixmanifest
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\bin\Debug\fasmdll_managed.dll
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\bin\Debug\fasmdll_managed.pdb
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\obj\Debug\AsmHighlighter.csprojResolveAssemblyReference.cache
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\obj\Debug\AsmHighlighter.VSPackage.resources
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\obj\Debug\AsmHighlighter.csproj.GenerateResource.Cache
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\obj\Debug\AsmHighlighter.dll
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\obj\Debug\AsmHighlighter.pdb
+C:\Users\Mnxoid\Desktop\PrimesStep2\AsmHighlighter\AsmHighlighter\obj\Debug\extension.vsixmanifest

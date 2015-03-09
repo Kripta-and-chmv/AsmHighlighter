@@ -1,0 +1,10 @@
+C:\Users\Mnxoid\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Alexandre Mutel\AsmHighlighter\2.0\\AsmHighlighter.dll
+C:\Users\Mnxoid\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Alexandre Mutel\AsmHighlighter\2.0\\fasmdll_managed.dll
+C:\Users\Mnxoid\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Alexandre Mutel\AsmHighlighter\2.0\\extension.vsixmanifest
+C:\Users\Mnxoid\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Alexandre Mutel\AsmHighlighter\2.0\\AsmHighlighter.pkgdef
+C:\Users\Mnxoid\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Alexandre Mutel\AsmHighlighter\2.0\\AsmHighlighterVS2010.png
+C:\Users\Mnxoid\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Alexandre Mutel\AsmHighlighter\2.0\\PackageIcon.ico
+C:\Users\Mnxoid\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Alexandre Mutel\AsmHighlighter\2.0\\License.rtf
+C:\Users\Mnxoid\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Alexandre Mutel\AsmHighlighter\2.0\\Screenshot.png
+C:\Users\Mnxoid\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Alexandre Mutel\AsmHighlighter\2.0\\AsmHighlighter.pdb
+C:\Users\Mnxoid\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Alexandre Mutel\AsmHighlighter\2.0\\fasmdll_managed.pdb
